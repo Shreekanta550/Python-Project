@@ -10,9 +10,12 @@ User Interface Integration: Tkinter is used to create a simple file selection in
 
 # Prerequisites
 1.Python 3.x
+
 2.SQL Server Manegement Stuido 
 
 # Required Python Libraries:
 1.pyODBC
+
 2.pandas
+
 3.tkinter
