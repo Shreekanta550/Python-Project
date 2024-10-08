@@ -9,10 +9,10 @@ Dynamic Table Creation: Automatically creates SQL Server tables based on the CSV
 User Interface Integration: Tkinter is used to create a simple file selection interface, making the import process user-friendly.
 
 # Prerequisites
-Python 3.x
-SQL Server Manegement Stuido 
+1.Python 3.x
+2.SQL Server Manegement Stuido 
 
 # Required Python Libraries:
-pyODBC
-pandas
-tkinter
+1.pyODBC
+2.pandas
+3.tkinter
